@@ -1,0 +1,13 @@
+{
+    "arithmetic": {
+        "weight": 0.33
+    },
+    "memory": {
+        "weight": 0.33
+    },
+    "concurrency": {
+        "weight": 0.33
+    }
+}
+
+  
